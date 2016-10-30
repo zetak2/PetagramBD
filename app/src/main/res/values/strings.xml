@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="bienvenida">Bienvenido a la aplicación mas popular para votar por mascotas</string>
+    <string name="btnIniciar">Visualizar Mascotas</string>
+    <string name="nombre">Nombre Mascota</string>
+    <string name="favs">0</string>
+    <string name="visualizarMascotas">Todas las Mascotas</string>
+    <string name="mascotasFavoritas">MascotasFavoritas</string>
+    <string name="contacto">Formulario Contacto</string>
+    <string name="acercade">Acerca de</string>
+    <string name="mContacto">Contacto</string>
+    <string name="mAcerca">Acerca de</string>
+    <string name="tiNombre">Nombre Completo</string>
+    <string name="tiEmail">Correo</string>
+    <string name="tiMensaje">Mensaje</string>
+    <string name="btnSendEmail">Enviar correo</string>
+    <string name="envioEmail">Email Enviado</string>
+    <string name="developer">Jose Manuel Alvarez Martinez</string>
+    <string name="bioInfo">
+        Ciudad de Origen:\nMexico DF\n\nEstudios:\nIngeniero en Computacion\n\nHobbies:\nLectura de Artículos de ciencia y tecnología, videojuegos
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
